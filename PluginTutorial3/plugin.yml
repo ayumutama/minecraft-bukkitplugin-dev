@@ -1,0 +1,14 @@
+name: PluginTutorial3
+main: com.github.ayumutama.PluginTutorial3.PluginTutorial3
+version: 1.0
+commands:
+   testcmd:
+      description: testcmd is test command.
+      usage: /<command>
+      permission: PluginTutorial3.testcmd
+      permission-message: You don't have <permission>
+   testcmd2:
+      description: testcmd is test command(However, the execution can only game).
+      usage: /<command>
+      permission: PluginTutorial3.testcmd2
+      permission-message: You don't have <permission>
