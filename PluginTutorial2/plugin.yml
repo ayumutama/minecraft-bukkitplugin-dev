@@ -1,0 +1,9 @@
+name: PluginTutorial2
+main: com.github.ayumutama.PluginTutorial2.PluginTutorial2
+version: 1.0
+commands:
+	testcmd:
+		description: testcmd was executed.
+		usage: /testcmd
+		permission: PluginTutorial2.testcmd
+		permission-message: You don't have PluginTutorial2.testcmd !
