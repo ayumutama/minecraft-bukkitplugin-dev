@@ -1,0 +1,9 @@
+name: PluginTutorial4
+main: com.github.ayumutama.PluginTutorial4.PluginTutorial4
+version: 1.0
+commands:
+   testcmd:
+      description: testcmd is test command.
+      usage: /<command>
+      permission: PluginTutorial4.testcmd
+      permission-message: You don't have <permission>
