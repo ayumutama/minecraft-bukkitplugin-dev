@@ -16,5 +16,7 @@ GitHub ayumutama Minecraft bukkit plugin開発用リポジトリ
 　＊開発終了
 ・PluginTutorial3 「コンソールでは実行できないコマンドを追加(/testcmd2)」
 　＊開発終了
+・PluginTutorial4 「コマンド実行クラスを作成し、Mainクラスのコードを減らす」
+　＊開発中...
 **************************************************************
 		                           Developer by ayumutama
